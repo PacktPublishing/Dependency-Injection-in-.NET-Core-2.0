@@ -1,0 +1,11 @@
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.AssemblyInfo.cs
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.deps.json
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.runtimeconfig.json
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.dll
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.pdb
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.dll
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.pdb
+c:\users\marino\Desktop\InterfaceSegregationPrinciple\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.0\InterfaceSegregationPrinciple.csprojResolveAssemblyReference.cache

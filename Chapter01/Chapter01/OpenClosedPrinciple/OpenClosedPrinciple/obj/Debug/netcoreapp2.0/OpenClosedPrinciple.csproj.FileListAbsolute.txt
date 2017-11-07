@@ -1,0 +1,11 @@
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.csprojResolveAssemblyReference.cache
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.AssemblyInfo.cs
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.deps.json
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.runtimeconfig.json
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.runtimeconfig.dev.json
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.dll
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\netcoreapp2.0\OpenClosedPrinciple.pdb
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.dll
+c:\users\marino\Desktop\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\netcoreapp2.0\OpenClosedPrinciple.pdb

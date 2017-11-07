@@ -1,0 +1,11 @@
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\bin\Debug\netcoreapp2.0\ASPNETCoreDemo1.deps.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\bin\Debug\netcoreapp2.0\ASPNETCoreDemo1.runtimeconfig.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\bin\Debug\netcoreapp2.0\ASPNETCoreDemo1.runtimeconfig.dev.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\bin\Debug\netcoreapp2.0\ASPNETCoreDemo1.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\bin\Debug\netcoreapp2.0\ASPNETCoreDemo1.pdb
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\obj\Debug\netcoreapp2.0\ASPNETCoreDemo1.csprojResolveAssemblyReference.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\obj\Debug\netcoreapp2.0\ASPNETCoreDemo1.csproj.CoreCompileInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\obj\Debug\netcoreapp2.0\ASPNETCoreDemo1.AssemblyInfoInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\obj\Debug\netcoreapp2.0\ASPNETCoreDemo1.AssemblyInfo.cs
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\obj\Debug\netcoreapp2.0\ASPNETCoreDemo1.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreDemo1\ASPNETCoreDemo1\obj\Debug\netcoreapp2.0\ASPNETCoreDemo1.pdb

@@ -1,0 +1,15 @@
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 2em;
+    border: 3px solid navy;
+}
+h2 {
+    font-size: 1.5em;
+    color:green;
+}
+section {
+     padding: 12px;
+     border: 2px dashed green;
+}

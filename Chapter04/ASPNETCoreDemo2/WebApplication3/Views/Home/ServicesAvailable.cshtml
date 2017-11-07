@@ -1,0 +1,29 @@
+﻿@using Microsoft.Extensions.DependencyInjection;
+
+@{
+    ViewData["Title"] = "Services Available";
+    var _services = @ViewData["Services"];
+}
+<h2>@ViewData["Title"]</h2>
+
+<h1>All Services</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Lifetime</th>
+            <th>Instance</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var svc in _services as IServiceCollection)
+        {
+        <tr>
+            <td>@svc.ServiceType.Name</td>
+            <td>@svc.Lifetime</td>
+            <td>@svc.ImplementationType?.Name</td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PacktDIExamples.Common\PacktDIExamples.Common.csproj" />
+    <ProjectReference Include="..\PacktDIExamples.DataAccess\PacktDIExamples.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

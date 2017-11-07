@@ -1,0 +1,14 @@
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Data\MoviesDB.xml
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Data\MoviesDB.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Chapter02-1.exe.config
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Chapter02-1.exe
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Chapter02-1.pdb
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Newtonsoft.Json.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\System.ValueTuple.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\bin\Debug\Newtonsoft.Json.xml
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\obj\Debug\Chapter02-1.csprojResolveAssemblyReference.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\obj\Debug\Chapter02_1.frmMethodInjection.resources
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\obj\Debug\Chapter02-1.csproj.GenerateResource.Cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\obj\Debug\Chapter02-1.csproj.CoreCompileInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\obj\Debug\Chapter02-1.exe
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter02\Demos\Chapter02-01\Chapter02-1\obj\Debug\Chapter02-1.pdb

@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Title": "AngularJS Directives",
+    "Author": "Alex Vantson",
+    "Price": 42.99,
+    "Topic": "Angular"
+  },
+  {
+    "Title": "Learning AngularJS Animations",
+    "Author": "Richard Keller",
+    "Price": 37.99,
+    "Topic": "Angular"
+  },
+  {
+    "Title": "AngularJS Directives Cookbook",
+    "Author": "Fernando Monteiro",
+    "Price": 39.50,
+    "Topic": "Angular"
+  },
+  {
+    "Title": "AngularJS Essentials",
+    "Author": "Rodrigo Branas",
+    "Price": 34.99,
+    "Topic": "Angular"
+  },
+  {
+    "Title": "AngularJS Services",
+    "Author": "Jim Lavin",
+    "Price": 30.99,
+    "Topic": "Angular"
+  }
+]

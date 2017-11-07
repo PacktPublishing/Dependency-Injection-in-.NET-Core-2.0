@@ -1,0 +1,10 @@
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.deps.json
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.runtimeconfig.json
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.runtimeconfig.dev.json
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.dll
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.csproj.CoreCompileInputs.cache
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.AssemblyInfoInputs.cache
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.AssemblyInfo.cs
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\bin\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.pdb
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.dll
+c:\users\marino\Desktop\SingleResponsibilityPrinciple2\SingleResponsibilityPrinciple2\obj\Debug\netcoreapp2.0\SingleResponsibilityPrinciple2.pdb

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="37f253d8-fed8-417e-8cce-eef0d5f1ca93" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="3071ce09-c532-414d-bf36-474acf128602" name="LoggerFactory">
+      <references>
+        <reference Id="ef018b9f-065d-497e-8e2d-ad0f5ced5d48" name="LoggerFactory">
+          <ArtifactNode Label="LoggerFactory" Category="CodeSchema_Project" Id="(Assembly=&quot;$(DesktopUri)/PACKT/_DI in NET CORE/Chapter03/Demos/LoggerFactory/LoggerFactory/LoggerFactory.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=LoggerFactory)" Label="LoggerFactory.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>

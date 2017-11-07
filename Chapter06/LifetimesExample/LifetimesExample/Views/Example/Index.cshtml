@@ -1,0 +1,66 @@
+﻿@using LifetimesExample.Interfaces
+@using LifetimesExample.Services
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    IExampleTransient transient = (IExampleTransient)ViewData["Transient"];
+    IExampleTransient scoped = (IExampleTransient)ViewData["Scoped"];
+    IExampleTransient singleton = (IExampleTransient)ViewData["Singleton"];
+    IExampleTransient singletonInstance = (IExampleTransient)ViewData["SingletonInstance"];
+    ExampleService service = (ExampleService)ViewBag.Service;
+}
+
+<h2>Lifetimes</h2>
+
+<h3>ExampleController Dependencies</h3>
+
+<table>
+    <tr>
+        <th>Lifestyle</th>
+        <th>Guid Value</th>
+    </tr>
+    <tr>
+        <td>Transient</td>
+        <td>@transient.ExampleId</td>
+    </tr>
+    <tr>
+        <td>Scoped</td>
+        <td>@scoped.ExampleId</td>
+    </tr>
+    <tr>
+        <td>Singleton</td>
+        <td>@singleton.ExampleId</td>
+    </tr>
+    <tr>
+        <td>Instance</td>
+        <td>@singletonInstance.ExampleId</td>
+    </tr>
+</table>
+
+<h3>ExampleService Dependencies</h3>
+
+<table>
+    <tr>
+        <th>Lifestyle</th>
+        <th>Guid Value</th>
+    </tr>
+    <tr>
+        <td>Transient</td>
+        <td>@service.TransientExample.ExampleId</td>
+    </tr>
+    <tr>
+        <td>Scoped</td>
+        <td>@service.ScopedExample.ExampleId</td>
+    </tr>
+    <tr>
+        <td>Singleton</td>
+        <td>@service.SingletonExample.ExampleId</td>
+    </tr>
+    <tr>
+        <td>Instance</td>
+        <td>@service.SingletonInstanceExample.ExampleId</td>
+    </tr>
+</table>

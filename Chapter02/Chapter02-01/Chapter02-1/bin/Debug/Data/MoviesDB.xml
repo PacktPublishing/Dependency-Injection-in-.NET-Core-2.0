@@ -1,0 +1,230 @@
+﻿<Movies>
+  <Movie>
+    <ID>1</ID>
+    <Title>Jurassic Park</Title>
+    <OscarNominations>3</OscarNominations>
+    <OscarWins>3</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>2</ID>
+    <Title>Spider-Man</Title>
+    <OscarNominations>2</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>3</ID>
+    <Title>King Kong</Title>
+    <OscarNominations>4</OscarNominations>
+    <OscarWins>3</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>5</ID>
+    <Title>Superman Returns</Title>
+    <OscarNominations>1</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>6</ID>
+    <Title>Titanic</Title>
+    <OscarNominations>14</OscarNominations>
+    <OscarWins>11</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>7</ID>
+    <Title>Evan Almighty</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>8</ID>
+    <Title>Waterworld</Title>
+    <OscarNominations>1</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>9</ID>
+    <Title>Pearl Harbor</Title>
+    <OscarNominations>4</OscarNominations>
+    <OscarWins>1</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>10</ID>
+    <Title>Transformers</Title>
+    <OscarNominations>3</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>11</ID>
+    <Title>Harry Potter and the Order of the Phoenix</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>12</ID>
+    <Title>Beowulf</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>13</ID>
+    <Title>Bee Movie</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>14</ID>
+    <Title>Pirates of the Caribbean: At World's End</Title>
+    <OscarNominations>2</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>15</ID>
+    <Title>I am Legend</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>16</ID>
+    <Title>Ratatouille</Title>
+    <OscarNominations>5</OscarNominations>
+    <OscarWins>1</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>17</ID>
+    <Title>Troy</Title>
+    <OscarNominations>1</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>18</ID>
+    <Title>Harry Potter and the Goblet of Fire</Title>
+    <OscarNominations>1</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>19</ID>
+    <Title>Batman Begins</Title>
+    <OscarNominations>1</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>20</ID>
+    <Title>Charlie and the Chocolate Factory</Title>
+    <OscarNominations>1</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>21</ID>
+    <Title>Pirates of the Caribbean: Dead Man's Chest</Title>
+    <OscarNominations>4</OscarNominations>
+    <OscarWins>1</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>22</ID>
+    <Title>Die Another Day</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>23</ID>
+    <Title>Lethal Weapon 4</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>24</ID>
+    <Title>Armageddon</Title>
+    <OscarNominations>4</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>25</ID>
+    <Title>Men in Black 2</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>26</ID>
+    <Title>Spider-Man 3</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>27</ID>
+    <Title>Spider-Man 2</Title>
+    <OscarNominations>3</OscarNominations>
+    <OscarWins>1</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>28</ID>
+    <Title>Stealth</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>29</ID>
+    <Title>Final Fantasy: The Spirits Within</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>30</ID>
+    <Title>Miami Vice</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>31</ID>
+    <Title>The World Is Not Enough</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>32</ID>
+    <Title>Master and Commander: The Far Side of the World</Title>
+    <OscarNominations>10</OscarNominations>
+    <OscarWins>2</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>33</ID>
+    <Title>War of the Worlds</Title>
+    <OscarNominations>3</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>34</ID>
+    <Title>The Bourne Ultimatum</Title>
+    <OscarNominations>3</OscarNominations>
+    <OscarWins>3</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>35</ID>
+    <Title>Harry Potter and the Prisoner of Azkaban</Title>
+    <OscarNominations>2</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>36</ID>
+    <Title>The Matrix Reloaded</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>37</ID>
+    <Title>The Da Vinci Code</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>38</ID>
+    <Title>Harry Potter and the Philosopher's Stone</Title>
+    <OscarNominations>3</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+  <Movie>
+    <ID>39</ID>
+    <Title>The Day After</Title>
+    <OscarNominations>0</OscarNominations>
+    <OscarWins>0</OscarWins>
+  </Movie>
+</Movies>

@@ -1,0 +1,11 @@
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\bin\Debug\netcoreapp2.0\LifetimesExample.deps.json
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\bin\Debug\netcoreapp2.0\LifetimesExample.runtimeconfig.json
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\bin\Debug\netcoreapp2.0\LifetimesExample.runtimeconfig.dev.json
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\bin\Debug\netcoreapp2.0\LifetimesExample.dll
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\obj\Debug\netcoreapp2.0\LifetimesExample.csprojResolveAssemblyReference.cache
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\obj\Debug\netcoreapp2.0\LifetimesExample.csproj.CoreCompileInputs.cache
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\obj\Debug\netcoreapp2.0\LifetimesExample.AssemblyInfoInputs.cache
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\obj\Debug\netcoreapp2.0\LifetimesExample.AssemblyInfo.cs
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\bin\Debug\netcoreapp2.0\LifetimesExample.pdb
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\obj\Debug\netcoreapp2.0\LifetimesExample.dll
+C:\Users\taditd\Desktop\Packt\Final Codes\Chapter 6\LifetimesExample\LifetimesExample\obj\Debug\netcoreapp2.0\LifetimesExample.pdb

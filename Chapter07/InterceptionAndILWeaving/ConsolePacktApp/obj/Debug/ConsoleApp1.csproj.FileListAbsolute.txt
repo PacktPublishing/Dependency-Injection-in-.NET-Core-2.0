@@ -1,0 +1,10 @@
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\Castle.Core.dll
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\Castle.Windsor.dll
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\Castle.Core.xml
+C:\Users\taditd\Desktop\Packt\ConsoleApp1\ConsoleApp1\bin\Debug\Castle.Windsor.xml

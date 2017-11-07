@@ -1,0 +1,10 @@
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\bin\Debug\netcoreapp2.0\DIConsole2.deps.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\bin\Debug\netcoreapp2.0\DIConsole2.runtimeconfig.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\bin\Debug\netcoreapp2.0\DIConsole2.runtimeconfig.dev.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\bin\Debug\netcoreapp2.0\DIConsole2.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\bin\Debug\netcoreapp2.0\DIConsole2.pdb
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\obj\Debug\netcoreapp2.0\DIConsole2.csproj.CoreCompileInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\obj\Debug\netcoreapp2.0\DIConsole2.AssemblyInfoInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\obj\Debug\netcoreapp2.0\DIConsole2.AssemblyInfo.cs
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\obj\Debug\netcoreapp2.0\DIConsole2.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\DIConsole2\DIConsole2\obj\Debug\netcoreapp2.0\DIConsole2.pdb

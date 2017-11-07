@@ -1,0 +1,11 @@
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\bin\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.deps.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\bin\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.runtimeconfig.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\bin\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.runtimeconfig.dev.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\bin\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\bin\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.pdb
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\obj\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.csprojResolveAssemblyReference.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\obj\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.csproj.CoreCompileInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\obj\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.AssemblyInfoInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\obj\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.AssemblyInfo.cs
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\obj\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter04\Demos\ASPNETCoreCustomDemo\ASPNETCoreDisposeDemo\obj\Debug\netcoreapp2.0\ASPNETCoreDisposeDemo.pdb

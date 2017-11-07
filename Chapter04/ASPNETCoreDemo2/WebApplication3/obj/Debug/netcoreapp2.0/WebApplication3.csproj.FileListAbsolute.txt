@@ -1,0 +1,11 @@
+c:\users\marino\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.deps.json
+c:\users\marino\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.json
+c:\users\marino\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.runtimeconfig.dev.json
+c:\users\marino\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.dll
+c:\users\marino\Desktop\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.0\WebApplication3.pdb
+c:\users\marino\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csproj.CoreCompileInputs.cache
+c:\users\marino\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfoInputs.cache
+c:\users\marino\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.AssemblyInfo.cs
+c:\users\marino\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.dll
+c:\users\marino\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.pdb
+c:\users\marino\Desktop\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.0\WebApplication3.csprojResolveAssemblyReference.cache

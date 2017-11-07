@@ -1,0 +1,17 @@
+﻿@using ASPNETCoreDisposeDemo.Helpers
+@using ASPNETCoreDisposeDemo.Services
+@inject DateTimeHelpers TimeHelpers
+@inject ProgrammerSentenceSvc PSentences
+@inject EngineerSentenceSvc ESentences
+@{
+    Random rnd = new Random();
+    ViewData["Title"] = "Random sentences obtained via Dependency Injection";
+}
+<h1>@ViewData["Title"]</h1>
+<h3>Local Time: @TimeHelpers.LocalTime</h3>
+<hr/>
+<h2>Programmer's Sentences (DI)</h2>
+<h3>@PSentences.programmersSentences[rnd.Next(1,5)]</h3>
+<h2>Engineers' Sentences (DI)</h2>
+
+<h3>@ESentences.engineersSentences[rnd.Next(1,5)]</h3>

@@ -1,0 +1,230 @@
+﻿[
+   {
+      "ID": "1",
+      "Title": "Jurassic Park",
+      "OscarNominations": "3",
+      "OscarWins": "3"
+   },
+   {
+      "ID": "2",
+      "Title": "Spider-Man",
+      "OscarNominations": "2",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "3",
+      "Title": "King Kong",
+      "OscarNominations": "4",
+      "OscarWins": "3"
+   },
+   {
+      "ID": "5",
+      "Title": "Superman Returns",
+      "OscarNominations": "1",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "6",
+      "Title": "Titanic",
+      "OscarNominations": "14",
+      "OscarWins": "11"
+   },
+   {
+      "ID": "7",
+      "Title": "Evan Almighty",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "8",
+      "Title": "Waterworld",
+      "OscarNominations": "1",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "9",
+      "Title": "Pearl Harbor",
+      "OscarNominations": "4",
+      "OscarWins": "1"
+   },
+   {
+      "ID": "10",
+      "Title": "Transformers",
+      "OscarNominations": "3",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "11",
+      "Title": "Harry Potter and the Order of the Phoenix",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "12",
+      "Title": "Beowulf",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "13",
+      "Title": "Bee Movie",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "14",
+      "Title": "Pirates of the Caribbean: At World's End",
+      "OscarNominations": "2",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "15",
+      "Title": "I am Legend",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "16",
+      "Title": "Ratatouille",
+      "OscarNominations": "5",
+      "OscarWins": "1"
+   },
+   {
+      "ID": "17",
+      "Title": "Troy",
+      "OscarNominations": "1",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "18",
+      "Title": "Harry Potter and the Goblet of Fire",
+      "OscarNominations": "1",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "19",
+      "Title": "Batman Begins",
+      "OscarNominations": "1",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "20",
+      "Title": "Charlie and the Chocolate Factory",
+      "OscarNominations": "1",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "21",
+      "Title": "Pirates of the Caribbean: Dead Man's Chest",
+      "OscarNominations": "4",
+      "OscarWins": "1"
+   },
+   {
+      "ID": "22",
+      "Title": "Die Another Day",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "23",
+      "Title": "Lethal Weapon 4",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "24",
+      "Title": "Armageddon",
+      "OscarNominations": "4",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "25",
+      "Title": "Men in Black 2",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "26",
+      "Title": "Spider-Man 3",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "27",
+      "Title": "Spider-Man 2",
+      "OscarNominations": "3",
+      "OscarWins": "1"
+   },
+   {
+      "ID": "28",
+      "Title": "Stealth",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "29",
+      "Title": "Final Fantasy: The Spirits Within",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "30",
+      "Title": "Miami Vice",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "31",
+      "Title": "The World Is Not Enough",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "32",
+      "Title": "Master and Commander: The Far Side of the World",
+      "OscarNominations": "10",
+      "OscarWins": "2"
+   },
+   {
+      "ID": "33",
+      "Title": "War of the Worlds",
+      "OscarNominations": "3",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "34",
+      "Title": "The Bourne Ultimatum",
+      "OscarNominations": "3",
+      "OscarWins": "3"
+   },
+   {
+      "ID": "35",
+      "Title": "Harry Potter and the Prisoner of Azkaban",
+      "OscarNominations": "2",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "36",
+      "Title": "The Matrix Reloaded",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "37",
+      "Title": "The Da Vinci Code",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "38",
+      "Title": "Harry Potter and the Philosopher's Stone",
+      "OscarNominations": "3",
+      "OscarWins": "0"
+   },
+   {
+      "ID": "39",
+      "Title": "The Day After",
+      "OscarNominations": "0",
+      "OscarWins": "0"
+   }
+]

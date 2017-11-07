@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Title": "HTML 5 Game Development",
+    "Author": "Daniel Albu",
+    "Price": 5.68,
+    "Topic": "HTML5 Games",
+    "Duration": "2h20m"
+  },
+  {
+    "Title": "Advanced JavaScript Development",
+    "Author": "Marco Covarrubias",
+    "Price": 5.68,
+    "Topic": "JavaScript",
+    "Duration": "3h11m"
+  },
+  {
+    "Title": "Mastering CSS3 Selectors",
+    "Author": "Ben Fhala",
+    "Price": 5.68,
+    "Topic": "CSS3",
+    "Duration": "1h44m"
+  },
+  {
+    "Title": "Mastering HTML 5 Canvas",
+    "Author": "Ben Fhala",
+    "Price": 5.68,
+    "Topic": "HTML5",
+    "Duration": "3h23m"
+  },
+  {
+    "Title": "Mastering TypeScript",
+    "Author": "David Sherret",
+    "Price": 5.68,
+    "Topic": "TypeScript",
+    "Duration": "3h13m"
+  }
+]

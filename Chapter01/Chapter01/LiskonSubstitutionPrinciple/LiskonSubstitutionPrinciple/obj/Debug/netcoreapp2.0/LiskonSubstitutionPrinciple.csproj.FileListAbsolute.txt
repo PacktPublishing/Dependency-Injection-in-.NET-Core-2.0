@@ -1,0 +1,11 @@
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.csprojResolveAssemblyReference.cache
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.AssemblyInfoInputs.cache
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.AssemblyInfo.cs
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.deps.json
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.runtimeconfig.json
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.runtimeconfig.dev.json
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.dll
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\bin\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.pdb
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.dll
+c:\users\marino\Desktop\LiskonSubstitutionPrinciple\LiskonSubstitutionPrinciple\obj\Debug\netcoreapp2.0\LiskonSubstitutionPrinciple.pdb

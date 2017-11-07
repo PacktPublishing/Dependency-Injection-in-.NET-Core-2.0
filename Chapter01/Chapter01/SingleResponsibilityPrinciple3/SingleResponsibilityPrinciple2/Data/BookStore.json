@@ -1,0 +1,27 @@
+[
+  {
+    "Title": "Mastering C# and .NET Programming",
+    "Author": "Marino Posadas",
+    "Price": 45.99
+  },
+  {
+    "Title": "F# 4.0 Programming Cookbook",
+    "Author": "Kevin Ashton",
+    "Price": 31.71
+  },
+  {
+    "Title": "Mastering .NET Machine Learning",
+    "Author": "Jamie Dixon",
+    "Price": 54.99
+  },
+  {
+    "Title": "Learning Node.js for .NET Developers",
+    "Author": "Harry Cummings",
+    "Price": 29.99
+  },
+  {
+    "Title": "ASP.NET Core and Angular 2",
+    "Author": "V. De Sanctis",
+    "Price": 39.92
+  }
+]

@@ -1,0 +1,11 @@
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\bin\Debug\netcoreapp2.0\LoggerFactory.deps.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\bin\Debug\netcoreapp2.0\LoggerFactory.runtimeconfig.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\bin\Debug\netcoreapp2.0\LoggerFactory.runtimeconfig.dev.json
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\bin\Debug\netcoreapp2.0\LoggerFactory.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\bin\Debug\netcoreapp2.0\LoggerFactory.pdb
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\obj\Debug\netcoreapp2.0\LoggerFactory.csprojResolveAssemblyReference.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\obj\Debug\netcoreapp2.0\LoggerFactory.csproj.CoreCompileInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\obj\Debug\netcoreapp2.0\LoggerFactory.AssemblyInfoInputs.cache
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\obj\Debug\netcoreapp2.0\LoggerFactory.AssemblyInfo.cs
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\obj\Debug\netcoreapp2.0\LoggerFactory.dll
+F:\_PACKT\_DI in NET CORE\Final Review 2.0\Chapter03\LoggerFactory\LoggerFactory\obj\Debug\netcoreapp2.0\LoggerFactory.pdb

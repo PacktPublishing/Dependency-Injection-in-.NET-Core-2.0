@@ -1,0 +1,27 @@
+﻿[
+  {
+    "Title": "ASP.NET Core 1.0 High Performance",
+    "Author": "James Singleton",
+    "Price": 49.99
+  },
+  {
+    "Title": "ASP.NET Core Essentials",
+    "Author": "Shahed Chowdhuri",
+    "Price": 34.99
+  },
+  {
+    "Title": "ASP.NET Site Performance Secrets",
+    "Author": "Matt Perdeck",
+    "Price": 59.99
+  },
+  {
+    "Title": "ASP.NET Web API Security Essentials",
+    "Author": "Rajesh Gunasundaram",
+    "Price": 34.99
+  },
+  {
+    "Title": "Mastering ASP.NET Core",
+    "Author": "Ricardo Peres",
+    "Price": 30.99
+  }
+]

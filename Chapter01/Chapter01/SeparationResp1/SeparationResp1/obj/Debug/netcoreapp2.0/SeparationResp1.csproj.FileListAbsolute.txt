@@ -1,0 +1,11 @@
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\bin\Debug\netcoreapp2.0\SeparationResp1.deps.json
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\bin\Debug\netcoreapp2.0\SeparationResp1.runtimeconfig.json
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\bin\Debug\netcoreapp2.0\SeparationResp1.runtimeconfig.dev.json
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\bin\Debug\netcoreapp2.0\SeparationResp1.dll
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\bin\Debug\netcoreapp2.0\SeparationResp1.pdb
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\obj\Debug\netcoreapp2.0\SeparationResp1.csprojResolveAssemblyReference.cache
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\obj\Debug\netcoreapp2.0\SeparationResp1.csproj.CoreCompileInputs.cache
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\obj\Debug\netcoreapp2.0\SeparationResp1.AssemblyInfoInputs.cache
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\obj\Debug\netcoreapp2.0\SeparationResp1.AssemblyInfo.cs
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\obj\Debug\netcoreapp2.0\SeparationResp1.dll
+c:\users\marino\Desktop\SeparationResp1\SeparationResp1\obj\Debug\netcoreapp2.0\SeparationResp1.pdb
