@@ -26,5 +26,3 @@ You will need Visual Studio 2017 Community Edition, the Chrome Navigator, and II
 
 * [C# 7 and .NET Core 2.0 Recipes [Video]](https://www.packtpub.com/application-development/c-7-and-net-core-20-recipes-video?utm_source=github&utm_medium=repository&utm_campaign=9781787289444)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
